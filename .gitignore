@@ -1,0 +1,33 @@
+# Directorios y archivos generados por Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Configuraciones específicas de Spring Tool Suite (STS)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# Configuraciones específicas de IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Configuraciones específicas de NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Configuraciones específicas de Visual Studio Code (VS Code)
+.vscode/
